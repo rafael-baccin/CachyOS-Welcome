@@ -3,8 +3,8 @@ about-dialog-title = CachyOS Hello
 about-dialog-comments = Tela de Boas-Vindas do CachyOS
 
 # Tweaks page
-tweaks = Ajustes
-fixes = Correções
+tweaks = Opções
+fixes = Ajustes
 applications = Aplicações
 removed-db-lock = A trava do banco de dados do Pacman foi removida!
 lock-doesnt-exist = O arquivo db.lock do Pacman não existe!
@@ -21,9 +21,9 @@ update-system-app-btn = Atualizar Sistema
 application-column = Aplicativo
 description-column = Descrição
 install-remove-column = Instalar / Remover
-advanced-btn-tooltip = Revela mais seleções de aplicações e pacotes
+advanced-btn-tooltip = Revela mais aplicações e pacotes
 reset-btn-tooltip = Descarta suas mudanças atuais
-update-system-app-btn-tooltip = Aplicar as mudanças para o sistema
+update-system-app-btn-tooltip = Aplicar as mudanças ao sistema
 
 # Dns Connections page
 dns-settings = Configurações do DNS
